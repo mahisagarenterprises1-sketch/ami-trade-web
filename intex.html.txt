@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ami Trade Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Ami Trade</h1>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Products</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+  </nav>
+</header>
+
+<div class="hero">
+  <h2>Welcome to Ami Trade</h2>
+  <p>Premium Clothes for Everyone</p>
+</div>
+
+<div class="container">
+  <div class="card">
+    <img src="images/shirt1.jpg">
+    <p>Classic Shirt</p>
+  </div>
+
+  <div class="card">
+    <img src="images/shirt2.jpg">
+    <p>Premium Shirt</p>
+  </div>
+
+  <div class="card">
+    <img src="images/shirt3.jpg">
+    <p>Formal Shirt</p>
+  </div>
+</div>
+
+<footer>
+  © 2026 Ami Trade. All Rights Reserved.
+</footer>
+
+</body>
+</html>
